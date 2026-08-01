@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.test
+*.out
+/sre-agent/sre-agent
+
+# Local environment
+.env
+.envrc
+
+# Editor / OS
+.DS_Store
